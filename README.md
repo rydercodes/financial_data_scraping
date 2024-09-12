@@ -1,4 +1,3 @@
 # financial_data_scraping
 
-run virtual environment `source activate` 
-run `python main.py`
+run virtual environment `source activate` then run `python main.py`

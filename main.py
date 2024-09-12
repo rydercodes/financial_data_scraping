@@ -5,8 +5,6 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'src')))
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'config')))
 
 
-import os
-
 # main.py
 from companies_details import CompaniesDetails
 from marketcap_details import MarketCapDetails

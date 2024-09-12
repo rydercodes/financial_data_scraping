@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/financial_data_scraping.egg-info/PKG-INFO
+src/financial_data_scraping.egg-info/SOURCES.txt
+src/financial_data_scraping.egg-info/dependency_links.txt
+src/financial_data_scraping.egg-info/top_level.txt

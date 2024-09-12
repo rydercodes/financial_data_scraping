@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: financial_data_scraping
+Version: 0.0.1
+Summary: Scraping financial data from yahoo
+Home-page: https://github/rydercodes/financial_data_scraping
+Author: rydercodes
+Author-email: jaber.rahimifard@outlook.com
+Project-URL: Bug Tracker, https://github/rydercodes/financial_data_scraping/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# financial_data_scraping

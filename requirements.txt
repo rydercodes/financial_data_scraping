@@ -1,0 +1,13 @@
+setuptools
+pandas
+notebook
+numpy
+seaborn
+joblib
+google-cloud-storage
+selenium
+webdriver_manager
+update
+bs4
+Python-IO
+yfinance
